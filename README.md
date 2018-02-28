@@ -22,6 +22,6 @@ YunOS: http://apps.yunos.com/search.htm?keyWord=123
 奇珀: http://down.7po.com/search?q=     
 沙发: http://app.shafa.com/search?kw=     
 
-Unfortunately, it dosen't support "乐视'、"应用宝"、"91"、"Google Play", I wish anyone interested in this project would give a help.
+Unfortunately, it dosen't support "乐视'、"应用宝"、"91"、"Google Play", I wish anyone interested in this project would give me a help, thanks a lot!
 
 David,2018.2.28
