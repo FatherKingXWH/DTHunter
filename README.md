@@ -1,7 +1,7 @@
 # DTHunter
 Catch Download Times In Android Markets 
 
-This project is used to crawl data of specific Android app's download times, for now it only support following markets in China:
+This project is used to crawl data of specific Android app's download times, for now it only supports following markets in China:
 百度: http://shouji.baidu.com/s?wd=     
 机锋: http://apk.gfan.com/search?q=     
 智汇云: http://app.hicloud.com/search/     
@@ -21,6 +21,6 @@ YunOS: http://apps.yunos.com/search.htm?keyWord=123
 奇珀: http://down.7po.com/search?q=     
 沙发: http://app.shafa.com/search?kw=     
 
-Unfortunately, for now it dosen't support "乐视'、"应用宝"、"91"、"Google Play", I wish anyyone interested in this project would give a help.
+Unfortunately, it dosen't support "乐视'、"应用宝"、"91"、"Google Play", I wish anyone interested in this project would give a help.
 
 David,2018.2.28
